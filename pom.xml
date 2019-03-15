@@ -43,12 +43,12 @@
     <repository>
         <id>rajesh</id>
         <name>rajesh-releases</name>
-        <url>http://13.232.51.65:8085/artifactory/nokia</url>
+        <url>http://10.0.0.14:8085/artifactory/nokia</url>
     </repository>
     <snapshotRepository>
         <id>rajesh</id>
         <name>rajesh-snapshots</name>
-        <url>http://13.232.51.65:8085/artifactory/nokia</url>
+        <url>http://10.0.0.14:8085/artifactory/nokia</url>
     </snapshotRepository>
 </distributionManagement>
 
@@ -57,4 +57,4 @@
 
 
 </project>
-#
+
