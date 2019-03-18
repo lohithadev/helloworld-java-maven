@@ -43,7 +43,7 @@
     <repository>
         <id>rajesh</id>
         <name>rajesh-releases</name>
-        <url>http://10.0.0.14:8081/nexus/content/repositories/lohitha/</url>
+        <url>http://10.0.0.14:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
         <id>rajesh</id>
